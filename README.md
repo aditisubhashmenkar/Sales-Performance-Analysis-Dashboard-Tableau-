@@ -18,7 +18,7 @@ Tableau Public / Tableau Desktop
 
 Sample Superstore Dataset
 
-7.Key Features
+4.Key Features
 
 Stacked bar chart for sub-category wise sales
 
@@ -28,7 +28,7 @@ Clear comparison across product categories
 
 User-friendly and visually appealing dashboard
 
-8.Insights Generated
+5.Insights Generated
 
 Identified high-revenue sub-categories
 
@@ -36,7 +36,7 @@ Compared sales distribution across products
 
 Highlighted areas with strong and weak performance
 
-9.Project Deliverables
+6.Project Deliverables
 
 Tableau workbook (.twb / .twbx)
 
